@@ -20,7 +20,7 @@ namespace Repeticion_prueba
         {
             ingreso(cajaTexto.Text);
         }
-
+        //
         public void ingreso(String dato)
         {
 
