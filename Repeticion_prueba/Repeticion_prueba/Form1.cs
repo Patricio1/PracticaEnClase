@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-
+//hola mundo
 namespace Repeticion_prueba
 {
     public partial class Form1 : Form
